@@ -1,0 +1,12 @@
+{
+  "name": "data-structure-javascript",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start:dev": "nodemon --experimental-modules --es-module-specifier-resolution=node  index.js"
+  },
+  "author": "David Elias Cerchiaro",
+  "license": "ISC"
+}
